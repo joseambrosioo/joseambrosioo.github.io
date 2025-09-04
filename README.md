@@ -1,4 +1,4 @@
-# jose-ambrosioo.github.io
+# joseambrosioo.github.io
 My Tech Portfolio
 
 Massively by HTML5 UP
